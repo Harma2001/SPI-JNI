@@ -1,0 +1,4 @@
+ninja: Entering directory `D:\spi_jni\spi_jni\spi_jni\app\.cxx\cmake\debug\arm64-v8a'
+[1/3] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/spi/spi.cpp.o
+[2/3] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o
+[3/3] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libnative-lib.so
