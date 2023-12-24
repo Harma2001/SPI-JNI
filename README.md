@@ -1,2 +1,2 @@
-# BLSPTest
+# SPI
 Test Application for Spi
